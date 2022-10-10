@@ -1,6 +1,6 @@
 ### Hi there, I'm Trey 👋
 
-<h3 align=center>I am a full-stack Software Engineer and currently practicing languages such as JavaScript, HTML, CSS, JS Nodes, MongoDB, Express, React, and Python.</h3>
+<h3 align=center>I am a full-stack Software Engineer and currently utilising languages such as JavaScript, HTML, CSS, JS Nodes, MongoDB, Express, React, and Python.</h3>
 
 <h3>Things I code with</h3>
 <p>
