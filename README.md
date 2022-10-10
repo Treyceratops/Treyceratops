@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Trey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treyceratops)](https://github.com/yourUserName/github-readme-stats)
+[![Trey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treyceratops)]
 
 <!--
 **Treyceratops/Treyceratops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
