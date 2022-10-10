@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treyceratops&layout=compact)](https://github.com/Treyceratops/github-readme-stats)
+
 ![Trey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Treyceratops)
 
 <!--
