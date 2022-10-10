@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Trey 👋
 
-<h3 >
+<h3 align=center>Present: I am a full-stack Software Engineer and currently practicing languages such as JavaScript, HTML, CSS, JS Nodes, Express, React, and Python.
+<br />
+Past: My professional experience has been in a broad variety of customer-facing and people management roles in the services industry, which has enabled me to improve my ability to delight a highly diverse customer base and lead a team in a complex, fast-paced environment.
+<br />
+Future: I am looking to combine strong people skills with strong technical skills in a software engineering role on a team that delivers high impact within an organization that is creating value and positive change.</h3>
 
 <h3>Things I code with</h3>
 <p>
