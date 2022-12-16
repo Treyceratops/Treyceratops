@@ -1,9 +1,9 @@
 ### Hi there, I'm Trey 👋
 <a href='https://treytowers.netlify.app/'>Visit My Portfolio</a> 
 
-<h3 align=center>I am a full-stack Software Engineer/Web-Developer and currently utilising languages such as JavaScript, HTML, CSS, JS Nodes, MongoDB, Express, React, and Python.</h3>
+<h3 align=center>I am a full-stack Software Engineer/Web-Developer and currently utilising languages such as JavaScript/HTML/CSS, MongoDB/MongooseODM, Express, React, Django and Python.</h3>
 
-<h3>Things I code with</h3>
+<h3>Other Things I Code With</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
