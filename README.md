@@ -1,7 +1,8 @@
-### Hi there, I'm Trey 👋
-<a href='https://treytowers.netlify.app/'>Visit My Portfolio</a> 
-
+### Hi there, I'm Trey 👋 
+<a href='https://treytowers.netlify.app/'>Visit My Portfolio</a>
 <h3 align=center>I am a full-stack Software Engineer/Web-Developer and currently utilising languages such as JavaScript/HTML/CSS, MongoDB/MongooseODM, Express, React, Django and Python.</h3>
+
+<img alt="software-engineer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h3>Other Things I Code With</h3>
 <p>
