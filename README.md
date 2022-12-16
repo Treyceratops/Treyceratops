@@ -29,6 +29,10 @@
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>  
+
+<br/>
+<br/>
+<br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Treyceratops&layout=compact)](https://github.com/Treyceratops/github-readme-stats)
 
