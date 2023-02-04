@@ -2,7 +2,7 @@
 
 <h3 align=center>I am a full-stack Software Engineer/Web-Developer and currently utilising languages such as JavaScript/HTML/CSS, MongoDB/MongooseODM, Express, React, Django and Python.</h3>
 
-<p align="center"><a href='https://treytowers.netlify.app/'>Visit My Portfolio</a></p>
+<h3 align="center"><a href='https://treytowers.netlify.app/'>Visit My Portfolio</a></h3>
 
 <p align="center">
   <img alt="software-engineer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
